@@ -1,7 +1,7 @@
-name: biblioteca_sdk
+name: biblioteca_network_sdk
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/PhillipiLino/biblioteca-network-sdk.git
 publish_to: "none"
 
 environment:

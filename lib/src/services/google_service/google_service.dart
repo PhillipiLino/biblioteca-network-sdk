@@ -1,4 +1,4 @@
-import 'package:biblioteca_sdk/src/hosts.dart';
+import 'package:biblioteca_network_sdk/src/hosts.dart';
 
 import '../../clients/client_interface.dart';
 import '../../models/google_search_model.dart';

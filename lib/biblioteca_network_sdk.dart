@@ -1,4 +1,5 @@
-library biblioteca_sdk;
+
+library biblioteca_network_sdk;
 
 /// A Calculator.
 class Calculator {

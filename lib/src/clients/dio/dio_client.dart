@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:biblioteca_sdk/src/helpers/dio_error_extensions.dart';
+import 'package:biblioteca_network_sdk/src/helpers/dio_error_extensions.dart';
 import 'package:commons_tools_sdk/error_report.dart';
 import 'package:commons_tools_sdk/logger.dart';
 import 'package:dio/dio.dart';
