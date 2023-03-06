@@ -1,5 +1,4 @@
 import 'package:biblioteca_network_sdk/models.dart';
-import 'package:biblioteca_network_sdk/src/models/google_search_model.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 main() {
