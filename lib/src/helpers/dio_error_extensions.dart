@@ -7,7 +7,7 @@ import '../models/request_exception.dart';
 extension DioErrorExtension on DioError {
   RequestException toException([StackTrace? stacktrace]) {
     if (this.response == null) {
-      return RequestException(null, message, null, stacktrace);
+      return RequestException(null, message, stacktrace);
     }
 
     var response = this.response;
@@ -15,8 +15,7 @@ extension DioErrorExtension on DioError {
     var json = _decodeJsonString(response.toString());
 
     if (json == null) {
-      return RequestException(
-          statusCode, response.toString(), null, stacktrace);
+      return RequestException(statusCode, response.toString(), stacktrace);
     }
 
     return RequestException.jsonError(statusCode, json, stacktrace);

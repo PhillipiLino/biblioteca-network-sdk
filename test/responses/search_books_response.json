@@ -1,0 +1,184 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 450,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "hf5f3r38P1cC",
+            "etag": "HQdzab73To4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/hf5f3r38P1cC",
+            "volumeInfo": {
+                "title": "Batman and Philosophy",
+                "subtitle": "The Dark Knight of the Soul",
+                "authors": [
+                    "Mark D. White",
+                    "Robert Arp"
+                ],
+                "publisher": "John Wiley & Sons",
+                "publishedDate": "2008-06-23",
+                "description": "Why doesn't Batman just kill the Joker and end everyone's misery? Can we hold the Joker morally responsible for his actions? Is Batman better than Superman? If everyone followed Batman's example, would Gotham be a better place? What is the Tao of the Bat? Batman is one of the most complex characters ever to appear in comic books, graphic novels, and on the big screen. What philosophical trials does this superhero confront in order to keep Gotham safe? Combing through seventy years of comic books, television shows, and movies, Batman and Philosophy explores how the Dark Knight grapples with ethical conundrums, moral responsibility, his identity crisis, the moral weight he carries to avenge his murdered parents, and much more. How does this caped crusader measure up against the teachings of Plato, Aristotle, Kant, Kierkegaard, and Lao Tzu?",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780470270301"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0470270306"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 304,
+                "printType": "BOOK",
+                "categories": [
+                    "Philosophy"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 9,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.5.6.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=hf5f3r38P1cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=hf5f3r38P1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.br/books?id=hf5f3r38P1cC&printsec=frontcover&dq=batman&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.br/books?id=hf5f3r38P1cC&dq=batman&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Batman_and_Philosophy.html?hl=&id=hf5f3r38P1cC"
+            },
+            "saleInfo": {
+                "country": "BR",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "BR",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.br/books/download/Batman_and_Philosophy-sample-epub.acsm?id=hf5f3r38P1cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.br/books/download/Batman_and_Philosophy-sample-pdf.acsm?id=hf5f3r38P1cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=hf5f3r38P1cC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "BLACKWELL PHILOSOPHY AND POP CULTURE SERIES This book has not been approved, licensed, or sponsored by any entity or person involved in creating or producing Batman, the comic, the film, or the TV series PHILOSOPHY/POP CULTURE Why doesn&#39;t ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "19K_DgAAQBAJ",
+            "etag": "05SvbzuvXig",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/19K_DgAAQBAJ",
+            "volumeInfo": {
+                "title": "Batman - o cavaleiro de Arkham",
+                "subtitle": "O lance do Charada",
+                "authors": [
+                    "Alex Irvine"
+                ],
+                "publisher": "Gryphus Editora",
+                "publishedDate": "2017-05-15",
+                "description": "A morte do Coringa deixou um vazio no submundo de Gotham — um vazio que o Charada pretende ocupar da forma mais mortífera possível. Criando um labirinto de mortes e destruição, essa mente brilhante do crime obtém a ajuda de muitos dos mais impiedosos inimigos do Batman. Correndo contra o tempo para evitar um colossal desastre, Batman e Robin se veem enfrentando um oponente incontrolável, em circunstâncias que parecem impossíveis de vencer. O livro se inicia quatro meses após a morte do Coringa, quando Batman está se recuperando física e mentalmente das dificuldades pelas quais passou. Mas as coisas não ficam quietas por muito tempo, pois um pacote, aparentemente enviado pelo Coringa do além-túmulo, é entregue ao Comissário Gordon na GCPD. Assim, é feita a primeira jogada no grande esquema do Charada, uma obra-prima de \"quebra-cabeças dentro de enigmas dentro de enigmas dentro de enigmas\", dispostos e cronometrados perfeitamente para que todos esqueçam a insanidade do Coringa e contemplem um tipo de crime muito mais sofisticado. Sim, boa sorte com isso, amigo! Batman: o Cavaleiro de Arkham - o lance do Charada é a adaptação literária oficial do videogame que conquistou muitos fãs e críticos em 2015. O livro tem adrenalina de sobra, e mesmo quem não é intimo dos videogames vai se sentir explorando os becos escuros de Gotham City.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788583110934"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "858311093X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 272,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.3.4.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=19K_DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=19K_DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pt-BR",
+                "previewLink": "http://books.google.com.br/books?id=19K_DgAAQBAJ&printsec=frontcover&dq=batman&hl=&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=19K_DgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=19K_DgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "BR",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 21.9,
+                    "currencyCode": "BRL"
+                },
+                "retailPrice": {
+                    "amount": 21.9,
+                    "currencyCode": "BRL"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=19K_DgAAQBAJ&rdid=book-19K_DgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 21900000,
+                            "currencyCode": "BRL"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 21900000,
+                            "currencyCode": "BRL"
+                        },
+                        "giftable": true
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "BR",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.br/books/download/Batman_o_cavaleiro_de_Arkham-sample-epub.acsm?id=19K_DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.br/books/download/Batman_o_cavaleiro_de_Arkham-sample-pdf.acsm?id=19K_DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=19K_DgAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Sim, boa sorte com isso, amigo! Batman: o Cavaleiro de Arkham - o lance do Charada é a adaptação literária oficial do videogame que conquistou muitos fãs e críticos em 2015."
+            }
+        }
+    ]
+}

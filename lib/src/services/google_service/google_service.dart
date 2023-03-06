@@ -9,7 +9,7 @@ class GoogleService {
 
   GoogleService(this.client);
 
-  Future<GoogleSearchModel> searchBooks(GoogleSearchRequest request) async {
+  Future<GoogleSearchModel?> searchBooks(GoogleSearchRequest request) async {
     final response = await client.get(
       'books/v1/volumes',
       queryParameters: request.parameters(),

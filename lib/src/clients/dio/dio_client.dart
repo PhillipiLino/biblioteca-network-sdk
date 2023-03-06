@@ -255,7 +255,7 @@ class DioClient implements IClient {
     errorReport?.recordException(
       exception: exception,
       stack: newTrace,
-      reason: exception.message,
+      reason: exception.rawMessage ?? '',
       errorCode: exception.statusCode,
       printDebugLog: LogManager.shared.typesToLog.contains(LogType.error),
     );
@@ -289,6 +289,6 @@ class DioClient implements IClient {
 
     if (199 < statusCode && statusCode < 300) return response.data;
 
-    throw RequestException(statusCode, 'Unknown Error', null, null);
+    throw RequestException(statusCode, 'Unknown Error', null);
   }
 }
